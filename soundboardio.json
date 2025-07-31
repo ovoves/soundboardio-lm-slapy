@@ -23,6 +23,22 @@
     {
       "name": "To si děláte prdel!",
       "filename": "02_to_si_delate_prdel.mp3"
-    }  
+    },
+    {
+      "name": "Sedni si a připoutej se!",
+      "filename": "03_sedni_si_a_pripoutej_se.mp3"
+    },
+    {
+      "name": "Co tam děláš, Palo? Nevím!",
+      "filename": "04_co_tam_delas_palo_nevim.mp3"
+    },
+    {
+      "name": "To zas bude průser!",
+      "filename": "05_to_zas_bude_pruser.mp3"
+    },
+    {
+      "name": "Pojďte mi pomoct, prosím! Jooo...",
+      "filename": "06_pomoc_prosim_jo.mp3"
+    }
   ]
 }
