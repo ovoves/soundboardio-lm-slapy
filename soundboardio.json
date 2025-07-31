@@ -15,6 +15,12 @@
       "type": "image/jpeg"
     }
   ],
+  "tiles": [
+    {
+      "name": "Ježiš, to je vůl!",
+      "filename": "01_jezis_to_je_vul.mp3"
+    }
+  ],
   "sounds": [
     {
       "file": "01_jezis_to_je_vul.mp3",
@@ -51,6 +57,6 @@
       "title": "Pojďte mi pomoct, prosím! Jooo...",
       "description": "",
       "order": 6
-    }
+    }   
   ]
 }
