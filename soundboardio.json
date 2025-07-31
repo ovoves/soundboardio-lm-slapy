@@ -2,6 +2,19 @@
   "title": "LM Slapy",
   "shortName": "lm-slapy",
   "description": "Palo na houpačce",
+  "icons": [
+    {
+      "src": "NaHoupacce.png",
+      "sizes": "780x780",
+      "type": "image/png"
+    },
+    {
+      "src": "NaHoupacce-icon.jpg",
+      "sizes": "192x192",
+      "purpose": "192x192",
+      "type": "image/jpeg"
+    }
+  ],
   "sounds": [
     {
       "file": "01_jezis_to_je_vul.mp3",
