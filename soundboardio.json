@@ -19,44 +19,10 @@
     {
       "name": "Ježiš, to je vůl!",
       "filename": "01_jezis_to_je_vul.mp3"
-    }
-  ],
-  "sounds": [
-    {
-      "file": "01_jezis_to_je_vul.mp3",
-      "title": "Ježiš, to je vůl!",
-      "description": "",
-      "order": 1
     },
     {
-      "file": "02_to_si_delate_prdel.mp3",
-      "title": "To si děláte prdel!",
-      "description": "",
-      "order": 2
-    },
-    {
-      "file": "03_sedni_si_a_pripoutej_se.mp3",
-      "title": "Sedni si a připoutej se!",
-      "description": "",
-      "order": 3
-    },
-    {
-      "file": "04_co_tam_delas_palo_nevim.mp3",
-      "title": "Co tam děláš, Palo? Nevím!",
-      "description": "",
-      "order": 4
-    },
-    {
-      "file": "05_to_zas_bude_pruser.mp3",
-      "title": "To zas bude průser!",
-      "description": "",
-      "order": 5
-    },
-    {
-      "file": "06_pomoc_prosim_jo.mp3",
-      "title": "Pojďte mi pomoct, prosím! Jooo...",
-      "description": "",
-      "order": 6
-    }   
+      "name": "To si děláte prdel!",
+      "filename": "02_to_si_delate_prdel.mp3"
+    }  
   ]
 }
